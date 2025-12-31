@@ -1,0 +1,5 @@
+{
+  "name": "Obsidian AI News Sync",
+  "description": "自動產生每日新聞摘要。使用 Gemini 3.0 抓取美股與國際新聞，生成繁體中文摘要，並透過 GitHub 同步至 Obsidian。",
+  "requestFramePermissions": []
+}
